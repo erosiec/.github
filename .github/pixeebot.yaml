@@ -1,4 +1,4 @@
 assignees: [testerosiec]
 
 ai:
-  allow_llm_access: true
+  allow_llm_access: false
